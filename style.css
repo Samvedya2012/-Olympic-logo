@@ -1,0 +1,13 @@
+h1{
+    color: rgb(245, 21, 189);
+    font-size: 40px;
+}
+.bodybackground{
+    background-image:url("PastelOlympicLogo.jpg") ;
+    background-position:center ;
+    background-size: cover;
+}
+#myCanvas{
+    border-width: 10px;
+    border-style: ridge;
+}
